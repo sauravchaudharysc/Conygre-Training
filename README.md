@@ -63,3 +63,10 @@ AWS Identity and Access Management (IAM) allows users to securely access and man
 • Groups
 • Roles
 • Policies
+
+### Machine Learning (AMAZON SageMaker)
+
+A machine learning Integrated Development Environment (IDE) for building, training, and debugging models, tracking experiments, deploying models, and monitoring their performance.
+
+![image-20210616234453490](C:\Users\Saurav Chaudhary\AppData\Roaming\Typora\typora-user-images\image-20210616234453490.png)
+
