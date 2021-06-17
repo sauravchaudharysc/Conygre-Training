@@ -1,3 +1,11 @@
+# Mediclaim Predictor
+
+This Project is made with AWS SageMaker.
+
+### What is AWS SageMaker ?
+
+AWS SageMaker is a fully managed machine learning platform offered by A.W.S that provides services on data labelling, model building, training, tuning and deployment. A.W.S allows data scientists and developers to build scalable A.I. and M.L. models easily and efficiently. Models can be deployed in production at a much faster rate and with a fraction of the costs.
+
 ## Services of AWS Used : 
 
 **Storage :** S3
