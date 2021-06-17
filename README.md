@@ -2,6 +2,18 @@
 
 This Project is made with AWS SageMaker.
 
+Live View At :- https://guarded-dusk-98917.herokuapp.com/
+
+### Available Scripts
+
+In the project directory, you can run:
+
+### Setup
+
+- Go to the deployment folder and run `npm i`
+- Then roll out your node server
+- Visit http://localhost:3000/
+
 ### What is AWS SageMaker ?
 
 AWS SageMaker is a fully managed machine learning platform offered by A.W.S that provides services on data labelling, model building, training, tuning and deployment. A.W.S allows data scientists and developers to build scalable A.I. and M.L. models easily and efficiently. Models can be deployed in production at a much faster rate and with a fraction of the costs.
@@ -54,7 +66,7 @@ Instead of buying physical hardware , we can simply rent these services by lever
 
 - **Spot Instances**
 
-  A spot offers a lower price compared to an on-Demand instance. The spot instance will run when capacity permits.You can purchase Spot Instances at prices up to 90% lower than On-Demand instances. 
+  A spot offers a lower price compared to an on-Demand instance. The spot instance will run when capacity permits. You can purchase Spot Instances at prices up to 90% lower than On-Demand instances. 
 
 - **Reserved Instances**
 
@@ -76,5 +88,11 @@ AWS Identity and Access Management (IAM) allows users to securely access and man
 
 A machine learning Integrated Development Environment (IDE) for building, training, and debugging models, tracking experiments, deploying models, and monitoring their performance.
 
-![image-20210616234453490](C:\Users\Saurav Chaudhary\AppData\Roaming\Typora\typora-user-images\image-20210616234453490.png)
+![image-20210616234453490](image-20210616234453490.png)
+
+
+
+# References
+
+- Amazon SageMaker model endpoint using Amazon API Gateway and AWS Lambda. [Click me](https://aws.amazon.com/blogs/machine-learning/call-an-amazon-sagemaker-model-endpoint-using-amazon-api-gateway-and-aws-lambda/)
 

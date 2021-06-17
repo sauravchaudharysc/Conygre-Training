@@ -29,3 +29,4 @@ Cloud computing is the on-demand delivery of IT resources over the Internet with
 
 4. **DEPLOY GLOBALLY IN MINUTES**
    Companies can deploy services in any corner of the planet in minutes by leveraging the cloud.
+
